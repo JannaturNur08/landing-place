@@ -5,6 +5,7 @@ import LogoBar from './landing-place/LogoBar';
 import Features from './landing-place/Features';
 import Pricing from './landing-place/Pricing';
 import Metrics from './landing-place/Metrics';
+import Team from './landing-place/Team';
 import CTA from './landing-place/CTA';
 import Testimonials from './landing-place/Testimonials';
 import Footer from './landing-place/Footer';
@@ -20,6 +21,7 @@ function App() {
       <CTA />
       <Testimonials />
       <Pricing />
+      <Team />
       <Footer />
     </div>
   );
