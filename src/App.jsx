@@ -5,6 +5,7 @@ import LogoBar from './landing-place/LogoBar';
 import Features from './landing-place/Features';
 import Metrics from './landing-place/Metrics';
 import CTA from './landing-place/CTA';
+import Testimonials from './landing-place/Testimonials';
 import Footer from './landing-place/Footer';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Features />
       <Metrics />
       <CTA />
+      <Testimonials />
       <Footer />
     </div>
   );
