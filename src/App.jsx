@@ -3,6 +3,7 @@ import Navbar from './landing-place/Navbar';
 import Hero from './landing-place/Hero';
 import LogoBar from './landing-place/LogoBar';
 import Features from './landing-place/Features';
+import Pricing from './landing-place/Pricing';
 import Metrics from './landing-place/Metrics';
 import CTA from './landing-place/CTA';
 import Testimonials from './landing-place/Testimonials';
@@ -18,6 +19,7 @@ function App() {
       <Metrics />
       <CTA />
       <Testimonials />
+      <Pricing />
       <Footer />
     </div>
   );
